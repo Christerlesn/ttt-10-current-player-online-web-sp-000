@@ -14,3 +14,4 @@ if board == %2
   puts "X"
 else
   "O"
+end
