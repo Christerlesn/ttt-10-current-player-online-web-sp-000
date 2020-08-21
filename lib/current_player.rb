@@ -10,9 +10,8 @@ end
 
 def current_player(board)
 turn_count
-if board == %2
+if board = %2
   puts "X"
 else
   "O"
-end
 end
