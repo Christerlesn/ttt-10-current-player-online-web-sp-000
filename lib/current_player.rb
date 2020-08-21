@@ -9,9 +9,8 @@ def turn_count(board)
 end
 
 def current_player(board)
-  if board.even
-    puts "O"
-  else
-    puts "X"
-  end
-end
+turn_count
+if board == %2
+  puts "X"
+else
+  "O"
