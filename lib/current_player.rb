@@ -15,3 +15,4 @@ if board = %2
 else
   "O"
 end
+end
